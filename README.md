@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm from Raleigh, North Carolina. <br><br>- <br>- 📚 I'm currently learning Computer Information Systems with a concentration in Cybersecurity. I am also sharpening my Python and SQL coding skills. <br>- ⚡ In my free time I enjoy learning about new technology, spending time outdoors, and hanging out with friends!</p>
+<p align="left">I'm from Raleigh, North Carolina.<br><br> <br>-📚 I'm currently learning Computer Information Systems with a concentration in Cybersecurity. I am also sharpening my Python and SQL coding skills. <br>- ⚡ In my free time I enjoy learning about new technology, spending time outdoors, and hanging out with friends!</p>
 
 ###
 
